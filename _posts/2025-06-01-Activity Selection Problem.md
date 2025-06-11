@@ -1,6 +1,6 @@
 ---
 title: "Activity Selection Problem"
-date: 2025-06-11 12:00:00 +0700
+date: 2025-06-01 12:00:00 +0700
 categories: [Algoritma, Greedy]
 tags: [activity-selection, greedy-algorithm]
 author: Akmal
