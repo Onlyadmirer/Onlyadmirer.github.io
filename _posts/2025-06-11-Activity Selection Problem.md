@@ -1,8 +1,9 @@
 ---
 title: Activity Selection Problem
-date: 2025-06-01 
+date: 2025-06-11 
 categories: [Algoritma, Greedy]
-tags: [activity-selection, greedy-algorithm]     # TAG names should always be lowercase
+tags: [activity-selection, greedy-algorithm]     
+author: akmal 
 ---
 
 
@@ -55,5 +56,6 @@ Algoritma ini memilih aktivitas sebanyak mungkin tanpa tumpang tindih dengan str
 
 ## Referensi
 
+- kel_01
 - Cormen, T.H., Leiserson, C.E., Rivest, R.L., & Stein, C. *Introduction to Algorithms*.
 - [GeeksforGeeks: Activity Selection Problem](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/)
