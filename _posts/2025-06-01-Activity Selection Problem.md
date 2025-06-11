@@ -1,10 +1,12 @@
 ---
-title: "Activity Selection Problem"
-date: 2025-06-01 12:00:00 +0700
+title: Activity Selection Problem
+date: 2025-06-01 
 categories: [Algoritma, Greedy]
-tags: [activity-selection, greedy-algorithm]
-author: Akmal
+tags: [activity-selection, greedy-algorithm]     # TAG names should always be lowercase
 ---
+
+
+# Activity Selection Problem
 
 **Activity Selection Problem** adalah masalah optimasi yang bertujuan memilih aktivitas sebanyak mungkin tanpa tumpang tindih. Diberikan sejumlah aktivitas dengan waktu mulai (`s`) dan waktu selesai (`f`), tantangannya adalah memilih subset aktivitas terbesar yang tidak saling bertabrakan.  
 
